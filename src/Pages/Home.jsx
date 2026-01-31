@@ -1,11 +1,13 @@
 import React from "react";
 import Navbar from "../component/Navbar";
 import Slider from "../component/Slider";
+import Popular from "../component/Popular";
 
 const Home = () => {
   return (
     <div>
       <Slider></Slider>
+      <Popular></Popular>
     </div>
   );
 };

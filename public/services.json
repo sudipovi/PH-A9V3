@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.ibb.co.com/6cTC2yzD/5ea6f454e92f83a264bbbbf6f70d2924.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.ibb.co.com/MDDywF0j/cb2a47fc5f5ab6de0cc109ef2d8f9b0f.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Indoor Exercise & Agility Session",
+    "providerName": "ActivePaws Gym",
+    "providerEmail": "play@activepaws.com",
+    "price": 45,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Keep your pet active during freezing temperatures with our heated indoor agility course.",
+    "image": "https://i.ibb.co.com/gb60qwTT/8ddeb40ec51625aad859ee3c67870f82.jpg",
+    "category": "Exercise"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Nutrition & Joint Consultation",
+    "providerName": "Wellness Vet Clinic",
+    "providerEmail": "care@wellnessvet.com",
+    "price": 60,
+    "rating": 5.0,
+    "slotsAvailable": 2,
+    "description": "Expert advice on winter calorie adjustment and joint supplements for cold-weather stiffness.",
+    "image": "https://i.ibb.co.com/67FXLRcQ/9edf9b6c85ec664ea6da30d59993faa5.jpg",
+    "category": "Health"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "De-Icing Salt Paw Detox",
+    "providerName": "Paws & Relax Spa",
+    "providerEmail": "spa@pawsrelax.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 8,
+    "description": "Soothing foot soak and deep cleaning to remove harmful sidewalk salt and chemicals.",
+    "image": "https://i.ibb.co.com/r2wYLGMn/abf72ea1d8d4f80e17e7697ead4763be.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Heated Bed & Blanket Rental",
+    "providerName": "The Snuggle Spot",
+    "providerEmail": "warmth@snugglespot.com",
+    "price": 15,
+    "rating": 4.9,
+    "slotsAvailable": 10,
+    "description": "Weekly rental of pressure-activated heated beds and self-warming thermal blankets.",
+    "image": "https://i.ibb.co.com/hx1Pkc6d/9bed8f70b1ed6ee7af937150b51324f9.jpg",
+    "category": "Accessories"
+  }
+]
